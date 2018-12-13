@@ -1,0 +1,6 @@
+﻿  TestingRadarConversion.cpp
+c:\users\bluex\documents\visual studio 2017\projects\testingradarconversion\testingradarconversion\testingradarconversion.cpp(14): warning C4101: 'alon': unreferenced local variable
+c:\users\bluex\documents\visual studio 2017\projects\testingradarconversion\testingradarconversion\testingradarconversion.cpp(14): warning C4101: 'alat': unreferenced local variable
+c:\users\bluex\documents\visual studio 2017\projects\testingradarconversion\testingradarconversion\testingradarconversion.cpp(14): warning C4101: 'yn': unreferenced local variable
+c:\users\bluex\documents\visual studio 2017\projects\testingradarconversion\testingradarconversion\testingradarconversion.cpp(14): warning C4101: 'xn': unreferenced local variable
+  TestingRadarConversion.vcxproj -> C:\Users\BlueX\Documents\Visual Studio 2017\Projects\TestingRadarConversion\Debug\TestingRadarConversion.exe
